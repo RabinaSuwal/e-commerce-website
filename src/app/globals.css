@@ -22,7 +22,7 @@
     left: 0;
     scale: 0;
     transform-origin: left;
-    transition: all 0.4s;
+    transition: all 0.1s;
   }
 
   .navbar_link:hover::after{
